@@ -34,9 +34,6 @@
     'data': [
         'views/res_config.xml',
     ],
-    'images': [
-        'static/description/main_screenshot.png',
-    ],
     'assets': {
         'web.assets_backend': [
             'ctp_customize_title/static/src/js/customize_title.js',
