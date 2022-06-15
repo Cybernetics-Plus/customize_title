@@ -7,7 +7,7 @@
 ###################################################################################
 
 {
-    'name': 'Cybernetics Plus Customize Title',
+    'name': 'Customize Web Backend Title',
     'version': '15.0.1.0.1',
     'summary': """ 
             Cybernetics Plus Tools Customize Web Backend Title
